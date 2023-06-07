@@ -1,0 +1,1 @@
+    //index.css file ki export nhi krna prta,direct index.js mai import kr lete

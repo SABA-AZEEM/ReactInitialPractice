@@ -1,0 +1,19 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: #3f3f3f;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.heading{
+    background-color: aliceblue;
+    color: pink;
+    font-family: 'Courier New', Courier, monospace;
+    border-radius: 30%;
+    padding: 20px;
+    font-size: 30px;
+    width: 433px;
+    text-align: center;
+}

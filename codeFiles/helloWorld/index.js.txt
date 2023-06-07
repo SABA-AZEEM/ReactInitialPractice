@@ -1,0 +1,7 @@
+import ReactDOM from "react-dom";
+
+    //one method
+const root = ReactDOM.createRoot(document.getElementById('root'));
+root.render(<h1>Hello World!</h1>);
+    //another method
+ReactDOM.render(<h1>this is second method</h1>,document.getElementById('root'));
